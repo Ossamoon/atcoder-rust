@@ -1,5 +1,5 @@
 [package]
-name = "atcoder-rust-abc313"
+name = "atcoder-rust-{{project-name}}"
 version.workspace = true
 edition.workspace = true
 
